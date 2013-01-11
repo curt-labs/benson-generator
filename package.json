@@ -1,0 +1,14 @@
+{
+  "name": "application-name",
+  "auther": "curt-labs",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "pdfkit": "*"
+  },
+	"devDependencies":{
+	}
+}
