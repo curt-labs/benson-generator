@@ -1,0 +1,13 @@
+.horizontal-form .btn-success {
+  margin-left: 10px;
+}
+.horizontal-form .btn-primary {
+  margin-top: 15px;
+}
+.tab-content iframe {
+  margin-top: 15px;
+  width: 90%;
+  height: 1100px;
+  border: none;
+  overflow: hidden;
+}

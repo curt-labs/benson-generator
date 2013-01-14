@@ -7,8 +7,12 @@
     "start": "node app"
   },
   "dependencies": {
-    "pdfkit": "*"
+    "express": "3.0.0",
+    "jade": "*",
+    "stylus": "*",
+    "pdfkit":"0.1.9"
   },
 	"devDependencies":{
+		"mocha":"0.3.x"
 	}
 }
